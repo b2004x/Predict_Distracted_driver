@@ -118,10 +118,17 @@ streamlit run app.py
 ## Referances
 
 -**3. ·. H. ·. A. ·. M. I. Md. Ashraf Uddin1, " AbnormalDriving Behavior Detection," 2025.**
+
 -**VNEXPRESS, "Tai nạn giao thông giảm trong 5 ngày nghỉ lễ," VNEXPRESS, 04 05 2025. [Online]. Available: https://vnexpress.net/tai-nan-giao-thong-giam-trong-5-ngay-nghi-le-4881467.html.**
+
 -**W. P. Review, "Countries with the Most Car Accidents 2025," World Population Review, [Online]. Available: https://worldpopulationreview.com/country-rankings/countries-with-the-most-car-accidents.**
+
 -**aicandy, "Mô hình ResNet - Đột phá trong nhận diện hình ảnh," 2024.**
+
 -**M. T. Q. V. Le, "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks," 2020.** 
+
 -**A. R. J. FAIQA SAJID1, "Distracted Driver Detection," 31 12 2021.**
+
 -**. M. I. K. K. P. NAVEEN KUMAR VAEGAE, "Design of an Efficient Distracted Driver Detection," 2022.**
+
 
